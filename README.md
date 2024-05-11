@@ -20,30 +20,30 @@
 * Thats it      
 
 
-# clone the repo
-git clone https://github.com/priyanxshu999/Prompt_chat.git
-# install dependencies 
-./install.sh
-./implibs.sh
-# find the ip of your machine  
-./ipaddr.sh
+ clone the repo
+# git clone https://github.com/priyanxshu999/Prompt_chat.git
+ install dependencies 
+#./install.sh
+# ./implibs.sh
+ find the ip of your machine  
+# ./ipaddr.sh
 
-# run the server script
-python chat_server.py
-# enter ip of your machine
-# enter port number i.e 8080
-# enter name 
+ run the server script
+# python chat_server.py
+ enter ip of your machine
+ enter port number i.e 8080
+ enter name 
 
-# open new terminal 
-# run the client script
-python chat_client.py
-# enter the ip enter by the server 
-# enter port entered by server i.e 8080
-# enter name 
+ open new terminal 
+ run the client script
+# python chat_client.py
+ enter the ip enter by the server 
+ enter port entered by server i.e 8080
+ enter name 
 
-# now the connection is established 
+ now the connection is established 
 
 
 
-# dont forget to generate the aes keys and paste it in both client and server script (dont use the existing keys)
+ dont forget to generate the AES key and paste it in both client and server script (dont use the existing keys)
 
