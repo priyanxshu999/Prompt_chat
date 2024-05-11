@@ -10,10 +10,10 @@
 * There are 3 shell files inside Prompt_chat folder 
 -->usage of shell files
    >>The shell files are created to install all the necessary libraries in your linux machine
-   >>To execute shell files ou need to provde executable permissions to these shell files 
+   >>To execute shell files you need to provde executable permissions to these shell files 
         you can simply provide exe permission by using below command
              chmod +x <__Filename__>
 * To know the ip address simply run the ipaddr.sh script or you can use (ip a) command.
-* Remember firt run the server script and add the ip address of your machine and then add the port 8080 and after that 
+* Remember first run the server script and add the ip address of your machine and then add the port 8080 and after that 
   perform the same process in the client script.
 * Thats it 
