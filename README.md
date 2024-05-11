@@ -16,4 +16,5 @@
 * To know the ip address simply run the ipaddr.sh script or you can use (ip a) command.
 * Remember first run the server script and add the ip address of your machine and then add the port 8080 and after that 
   perform the same process in the client script.
-* Thats it 
+* The AES encryption makes the chat more secure as it is a symmetric key cryptography
+* Thats it      
